@@ -62,6 +62,9 @@
     "commitlint.config.js",
     "lint-staged.config.js",
     "webpack.config.js",
-    "craco.config.js"
+    "craco.config.js",
+    "vite.config.js",
+    "alias.ts",
+    "vite.config.ts"
   ]
 }

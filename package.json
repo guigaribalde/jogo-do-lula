@@ -24,8 +24,10 @@
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
+    "@testing-library/react-hooks": "^8.0.1",
     "@typescript-eslint/eslint-plugin": "^5.39.0",
     "@typescript-eslint/parser": "^5.39.0",
+    "@vitejs/plugin-react": "^2.1.0",
     "autoprefixer": "^10.4.12",
     "concurrently": "^7.4.0",
     "cz-conventional-changelog": "^3.3.0",
@@ -45,13 +47,14 @@
     "prettier": "^2.7.1",
     "prettier-eslint": "^15.0.1",
     "tailwindcss": "^3.1.8",
-    "typescript-eslint-parser": "^22.0.0"
+    "typescript-eslint-parser": "^22.0.0",
+    "vitest": "^0.24.1"
   },
   "scripts": {
     "prepare": "husky install",
     "start": "craco start",
     "build": "craco build",
-    "test": "craco test",
+    "test": "vitest",
     "eject": "craco eject",
     "dev": "concurrently \"json-server --watch ./src/@db/players.json -d 500 --port 3005\" \"craco start\""
   },
