@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"@pages/*": ["./src/pages/*"],
+			"@components/*": ["./src/components/*"],
+			"@contexts/*": ["./src/contexts/*"],
+			"@hooks/*": ["./src/hooks/*"],
+			"@utils/*": ["./src/utils/*"],
+			"@styles/*": ["./src/styles/*"],
+			"@assets/*": ["./src/assets/*"],
+			"@interfaces/*": ["./src/interfaces/*"],
+			"@lib/*": ["./src/lib/*"],
+			"@/*": ["./src/*"]
+		}
+	}
+}

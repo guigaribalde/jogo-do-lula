@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="394.753" height="259.5" viewBox="0 0 394.753 259.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: rgba(0,0,0,0);
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+        stroke-width: 6px;
+      }
+
+      .cls-2 {
+        stroke: #ed1a76;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_6" data-name="Grupo 6" transform="translate(-762.623 -402)">
+    <path id="União_1" data-name="União 1" class="cls-1" d="M450.712,338.5V316.595H439.76V338.5H417.855V294.691h10.953V283.738h32.857v10.952h10.952V338.5ZM439.76,305.643h10.952V294.691H439.76ZM352.14,338.5V283.738h21.905v43.809h21.905V338.5Zm-65.714,0V327.548H275.474V283.738h21.905v43.809h10.952V283.738h21.905v43.809H319.283V338.5Zm-76.667,0V283.738h21.905v43.809H253.57V338.5Zm237.332-81v-5.714h-5.715V234.643h5.715v-5.714h17.142v5.714h5.714v17.143h-5.714V257.5Zm5.714-5.714h5.714V234.643h-5.714ZM401.377,257.5V228.929h22.857v5.714h5.714v17.143h-5.714V257.5Zm11.428-5.714h5.715V234.643H412.8ZM338.52,257.5v-5.714h-5.714V234.643h5.714v-5.714h17.142v5.714h5.715v17.143h-5.715V257.5Zm5.714-5.714h5.714V234.643h-5.714ZM298.519,257.5v-5.714h-5.714V234.643h5.714v-5.714h22.857v5.714H304.233v17.143h5.715V240.357h11.428v11.429h-5.714V257.5Zm-40,0v-5.714h-5.714V234.643h5.714v-5.714h17.142v5.714h5.715v17.143h-5.715V257.5Zm5.714-5.714h5.714V234.643h-5.714ZM218.519,257.5v-5.714h-5.714v-5.714h11.429v5.714h5.714V228.929h11.428v22.857h-5.714V257.5Z" transform="translate(618.623 249.5)"/>
+    <g id="Grupo_5" data-name="Grupo 5">
+      <g id="Grupo_3" data-name="Grupo 3" transform="translate(762.623 402)">
+        <path id="Caminho_1" data-name="Caminho 1" class="cls-2" d="M682.025,470V412.273h366.54V470" transform="translate(-668.24 -392)"/>
+        <g id="Grupo_2" data-name="Grupo 2">
+          <line id="Linha_1" data-name="Linha 1" class="cls-3" y2="78" transform="translate(26 0.5)"/>
+          <line id="Linha_2" data-name="Linha 2" class="cls-3" x2="394.753" transform="translate(0 34.5)"/>
+          <line id="Linha_3" data-name="Linha 3" class="cls-3" y2="78" transform="translate(368.753)"/>
+        </g>
+      </g>
+      <g id="Grupo_4" data-name="Grupo 4" transform="translate(1165.377 661.5) rotate(180)">
+        <path id="Caminho_1-2" data-name="Caminho 1" class="cls-2" d="M0,57.727V0H354.787V57.727" transform="translate(26.932 20.273)"/>
+        <g id="Grupo_2-2" data-name="Grupo 2" transform="translate(13.148)">
+          <line id="Linha_1-2" data-name="Linha 1" class="cls-3" y2="78" transform="translate(26 0.5)"/>
+          <line id="Linha_2-2" data-name="Linha 2" class="cls-3" x2="381.605" transform="translate(0 34.5)"/>
+          <line id="Linha_3-2" data-name="Linha 3" class="cls-3" y2="78" transform="translate(355.605)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

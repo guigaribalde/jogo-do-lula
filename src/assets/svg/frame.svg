@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="394.753" height="259.5" viewBox="0 0 394.753 259.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-width: 6px;
+      }
+
+      .cls-1 {
+        stroke: #ed1a76;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_6" data-name="Grupo 6" transform="translate(-762.623 -402)">
+    <g id="Grupo_5" data-name="Grupo 5">
+      <g id="Grupo_3" data-name="Grupo 3" transform="translate(762.623 402)">
+        <path id="Caminho_1" data-name="Caminho 1" class="cls-1" d="M682.025,470V412.273h366.54V470" transform="translate(-668.24 -392)"/>
+        <g id="Grupo_2" data-name="Grupo 2">
+          <line id="Linha_1" data-name="Linha 1" class="cls-2" y2="78" transform="translate(26 0.5)"/>
+          <line id="Linha_2" data-name="Linha 2" class="cls-2" x2="394.753" transform="translate(0 34.5)"/>
+          <line id="Linha_3" data-name="Linha 3" class="cls-2" y2="78" transform="translate(368.753)"/>
+        </g>
+      </g>
+      <g id="Grupo_4" data-name="Grupo 4" transform="translate(1165.377 661.5) rotate(180)">
+        <path id="Caminho_1-2" data-name="Caminho 1" class="cls-1" d="M0,57.727V0H354.787V57.727" transform="translate(26.932 20.273)"/>
+        <g id="Grupo_2-2" data-name="Grupo 2" transform="translate(13.148)">
+          <line id="Linha_1-2" data-name="Linha 1" class="cls-2" y2="78" transform="translate(26 0.5)"/>
+          <line id="Linha_2-2" data-name="Linha 2" class="cls-2" x2="381.605" transform="translate(0 34.5)"/>
+          <line id="Linha_3-2" data-name="Linha 3" class="cls-2" y2="78" transform="translate(355.605)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
