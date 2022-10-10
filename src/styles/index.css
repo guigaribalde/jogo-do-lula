@@ -3,17 +3,17 @@
 @tailwind utilities;
 
 @font-face {
-	font-family: "SilkScreen";
-	src: url("@assets/font/slkscrbold.ttf");
+  font-family: 'SilkScreen';
+  src: url('@assets/font/slkscrbold.ttf');
 }
 
 body {
-	margin: 0;
-	font-family: "SilkScreen";
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	background-color: #1a202c;
-	min-height: 100vh;
+  margin: 0;
+  font-family: 'SilkScreen';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #1a202c;
+  min-height: 100vh;
 }
 
 /* Customize website's scrollbar like Mac OS
@@ -21,23 +21,23 @@ Not supports in Firefox and IE */
 
 /* total width */
 ::-webkit-scrollbar {
-	background-color: rgb(231 229 228);
-	width: 16px;
+  background-color: rgb(231 229 228);
+  width: 16px;
 }
 
 /* background of the scrollbar except button or resizer */
 ::-webkit-scrollbar-track {
-	background-color: rgb(231 229 228);
+  background-color: rgb(231 229 228);
 }
 
 /* scrollbar itself */
 ::-webkit-scrollbar-thumb {
-	background-color: #babac0;
-	border-radius: 16px;
-	border: 4px solid rgb(231 229 228);
+  background-color: #babac0;
+  border-radius: 16px;
+  border: 4px solid rgb(231 229 228);
 }
 
 /* set button(top and bottom of the scrollbar) */
 ::-webkit-scrollbar-button {
-	display: none;
+  display: none;
 }

@@ -1,4 +1,15 @@
 {
+  "settings": {
+    "import/extensions": [".js", ".jsx", ".ts", ".tsx"],
+    "import/parsers": {
+      "@typescript-eslint/parser": [".ts", ".tsx"]
+    },
+    "import/resolver": {
+      "node": {
+        "extensions": [".js", ".jsx", ".ts", ".tsx"]
+      }
+    }
+  },
   "extends": [
     "airbnb",
     "airbnb-typescript",
@@ -13,6 +24,16 @@
     "project": "./tsconfig.json"
   },
   "rules": {
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "js": "never",
+        "jsx": "never",
+        "ts": "never",
+        "tsx": "never"
+      }
+    ],
     "@typescript-eslint/no-unused-vars": "error",
     "prefer-const": [
       "error",
@@ -40,6 +61,7 @@
   "ignorePatterns": [
     "commitlint.config.js",
     "lint-staged.config.js",
-    "webpack.config.js"
+    "webpack.config.js",
+    "craco.config.js"
   ]
 }

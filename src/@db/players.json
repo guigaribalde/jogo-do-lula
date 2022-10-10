@@ -1,418 +1,418 @@
 {
-	"players": [
-		{
-			"id": "1",
-			"name": "oh il-nam",
-			"number": 1,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b2/oh_il-nam_2020.png"
-		},
-		{
-			"id": "2",
-			"name": "Mun Jang-ho",
-			"number": 2,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/f/fb/Real_002.png"
-		},
-		{
-			"id": "3",
-			"name": "Ji Hu-Kang",
-			"number": 3,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/7/78/Player_003.png"
-		},
-		{
-			"id": "4",
-			"name": "Eun Ji-Lee",
-			"number": 4,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/6/61/6549FDE6-F8EF-4058-B152-4643165DE9C3.jpg"
-		},
-		{
-			"id": "5",
-			"name": "Cho Seung-yon",
-			"number": 5,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b0/Player_005_EP4.jpg"
-		},
-		{
-			"id": "6",
-			"name": "Choi Woo-seong",
-			"number": 6,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/1/18/006.png"
-		},
-		{
-			"id": "7",
-			"name": "Seong Gi-hun",
-			"number": 456,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/9/99/Casual_Gi-hun.png"
-		},
-		{
-			"id": "8",
-			"name": "Kim In-hyeok",
-			"number": 455,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/3/3a/455.png"
-		},
-		{
-			"id": "9",
-			"name": "Do Jung-soo",
-			"number": 17,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/4/49/Player_017.png"
-		},
-		{
-			"id": "10",
-			"name": "Moon Byung-Joo",
-			"number": 21,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/f/fb/Player_021.png"
-		},
-		{
-			"id": "11",
-			"name": "Kim Ha-young",
-			"number": 32,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b2/Player_032.jpg"
-		},
-		{
-			"id": "12",
-			"name": "Yoon Young-kyun",
-			"number": 40,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/5/5b/Player-040.PNG"
-		},
-		{
-			"id": "13",
-			"name": "Won Choon-gyu",
-			"number": 66,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/7/7c/Player_066_Main.jpg"
-		},
-		{
-			"id": "14",
-			"name": "Kang Sae-Byeok",
-			"number": 67,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/f/f4/Kang_Sae-byeok.png"
-		},
-		{
-			"id": "15",
-			"name": "Kim Yun-tae",
-			"number": 69,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/f/f9/Player_69_marbles.png"
-		},
-		{
-			"id": "16",
-			"name": "Lee Ji-ha",
-			"number": 70,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/a/a1/Player_070.png"
-		},
-		{
-			"id": "17",
-			"name": "Park Jung-eon",
-			"number": 73,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/2/2e/073_Main.jpg"
-		},
-		{
-			"id": "18",
-			"name": "Jung Woo-hyuk",
-			"number": 96,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/7/72/Player_096.png"
-		},
-		{
-			"id": "19",
-			"name": "Jang Deok-su",
-			"number": 101,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b9/Jang_Deok-su.jpg"
-		},
-		{
-			"id": "20",
-			"name": "Ji Ho-nu",
-			"number": 102,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/d/df/102.png"
-		},
-		{
-			"id": "21",
-			"name": "Kim Mi-ok",
-			"number": 107,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/2/27/Kim_Mi_Ok_107_Main.jpg"
-		},
-		{
-			"id": "22",
-			"name": "Byeong-gi",
-			"number": 111,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/6/6f/Byeong-gi.png"
-		},
-		{
-			"id": "23",
-			"name": "Oh Yeong-uk",
-			"number": 118,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/0/0f/Oh_Yeong-uk.png"
-		},
-		{
-			"id": "24",
-			"name": "No Sang-hun",
-			"number": 119,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/2/2e/No_Sang-hun.png"
-		},
-		{
-			"id": "25",
-			"name": "Op Fre Woo",
-			"number": 123,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/8/81/60F34E3B-34A2-42CB-B13C-E680FB700C3C.jpg"
-		},
-		{
-			"id": "26",
-			"name": "Na Jo-eun",
-			"number": 129,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/4/49/Player_129.png"
-		},
-		{
-			"id": "27",
-			"name": "Moon Jung-dae",
-			"number": 151,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b3/Player151.jpeg"
-		},
-		{
-			"id": "28",
-			"name": "Na Jo-eun",
-			"number": 187,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/f/fc/Player_187_Spectating.png"
-		},
-		{
-			"id": "29",
-			"name": "Rung Kwan-Jan",
-			"number": 193,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/7/75/Player_193.png"
-		},
-		{
-			"id": "30",
-			"name": "Woo Yeong-taek",
-			"number": 194,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/3/39/Player_194.png"
-		},
-		{
-			"id": "31",
-			"name": "Kim Dong-hyun",
-			"number": 196,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/e/e5/Player_196.png"
-		},
-		{
-			"id": "32",
-			"name": "Kim Hee-seo",
-			"number": 198,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/3/34/Player_198.jpg"
-		},
-		{
-			"id": "33",
-			"name": "Ali Abdul",
-			"number": 199,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/7/74/Ali_Abdul.jpeg"
-		},
-		{
-			"id": "34",
-			"name": "Hyun Jin",
-			"number": 209,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/4/4a/Player_209.jpg"
-		},
-		{
-			"id": "35",
-			"name": "Han Mi-nyeo",
-			"number": 212,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/7/75/Mi-nyeo.png"
-		},
-		{
-			"id": "36",
-			"name": "Cho Sang-woo",
-			"number": 218,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/2/22/Sang-woo.png"
-		},
-		{
-			"id": "37",
-			"name": "Hwang Mi-young",
-			"number": 233,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/8/88/Player_233.png"
-		},
-		{
-			"id": "38",
-			"name": "Tug Bu Ju-Ru",
-			"number": 234,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/a/a3/Player_234.png"
-		},
-		{
-			"id": "39",
-			"name": "Ko Sun-ha",
-			"number": 236,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/4/4f/Ko_Sun-ha.jpg"
-		},
-		{
-			"id": "40",
-			"name": "Ji-yeong",
-			"number": 240,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/f/f2/Ji-yeong.png"
-		},
-		{
-			"id": "41",
-			"name": "Kim Si-hyun",
-			"number": 244,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/7/7c/Player_244.png"
-		},
-		{
-			"id": "42",
-			"name": "Kim Won-Jung",
-			"number": 245,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/9/9f/Player_245.png"
-		},
-		{
-			"id": "43",
-			"name": "Park Ji-hoon",
-			"number": 250,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/f/fd/Player_250.png"
-		},
-		{
-			"id": "44",
-			"name": "Min Tae-yul",
-			"number": 271,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/3/31/Player_271.png"
-		},
-		{
-			"id": "45",
-			"name": "Kim Yoon-kwok",
-			"number": 273,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/f/f0/Player_273.png"
-		},
-		{
-			"id": "46",
-			"name": "Jung Mi-kyung",
-			"number": 274,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/c/ce/Player_274.png"
-		},
-		{
-			"id": "47",
-			"name": "Christian Lagahit",
-			"number": 276,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/7/73/Player_276.png"
-		},
-		{
-			"id": "48",
-			"name": "Kwak Ja-hyoung",
-			"number": 278,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/f/f7/278_main.jpg"
-		},
-		{
-			"id": "49",
-			"name": "Kim Dong-won",
-			"number": 303,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/7/73/303_main.jpg"
-		},
-		{
-			"id": "50",
-			"name": "Yang Mi-seon",
-			"number": 306,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/3/37/306Blood.jpg"
-		},
-		{
-			"id": "51",
-			"name": "Hwang Youn-hee",
-			"number": 308,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/a/ac/308.jpg"
-		},
-		{
-			"id": "52",
-			"name": "Jung Min-tae",
-			"number": 322,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/0/07/Jung_Min-tae.png"
-		},
-		{
-			"id": "53",
-			"name": "Lee Han-sol",
-			"number": 324,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/f/fb/Player_324.png"
-		},
-		{
-			"id": "54",
-			"name": "Kim Youn-tae",
-			"number": 326,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/a/a1/Player_326_png.png"
-		},
-		{
-			"id": "55",
-			"name": "Jong Beom-Park",
-			"number": 357,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/3/3e/Player_357.jpg"
-		},
-		{
-			"id": "56",
-			"name": "Ham Young-nam",
-			"number": 360,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b8/Player_334.png"
-		},
-		{
-			"id": "57",
-			"name": "Park Ju-un",
-			"number": 369,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/1/1e/Park_Ju-un.png"
-		},
-		{
-			"id": "58",
-			"name": "Ko Byung-taek",
-			"number": 407,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/9/95/Player_407.png"
-		},
-		{
-			"id": "59",
-			"name": "Lim Jae-eun",
-			"number": 428,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/c/ce/Player440praying.png"
-		},
-		{
-			"id": "60",
-			"name": "Nick Tonez",
-			"number": 430,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/a/a3/Player_445.png"
-		},
-		{
-			"id": "61",
-			"name": "Lee Se-hoon",
-			"number": 442,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/4/45/Player_442.png"
-		},
-		{
-			"id": "62",
-			"name": "Yang Mal-bok",
-			"number": 453,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/a/a8/Player_453.png"
-		},
-		{
-			"id": "63",
-			"name": "Jan Mun-ho",
-			"number": 454,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/9/90/Player_454.png"
-		},
-		{
-			"id": "64",
-			"name": "Ali Lee Abdul",
-			"number": 450,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/5/55/Player450.png"
-		},
-		{
-			"id": "65",
-			"name": "A Na Lee",
-			"number": 447,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/d/dd/Another_447_player_in_Tug_of_War.jpg"
-		},
-		{
-			"id": "66",
-			"name": "Rung Park",
-			"number": 302,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/6/66/Player302.jpg"
-		},
-		{
-			"id": "67",
-			"name": "Ane Mi-Yang",
-			"number": 339,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/c/ce/Player_339_scared.png"
-		},
-		{
-			"id": "68",
-			"name": "Ju Lang-Si",
-			"number": 338,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/b/bd/Screenshot_2022-04-16_16.03.02.png"
-		},
-		{
-			"id": "69",
-			"name": "Jane Dong",
-			"number": 337,
-			"image": "https://static.wikia.nocookie.net/thesquidgame/images/0/0e/Player_337.png"
-		}
-	]
+  "players": [
+    {
+      "id": "1",
+      "name": "oh il-nam",
+      "number": 1,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b2/oh_il-nam_2020.png"
+    },
+    {
+      "id": "2",
+      "name": "Mun Jang-ho",
+      "number": 2,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/f/fb/Real_002.png"
+    },
+    {
+      "id": "3",
+      "name": "Ji Hu-Kang",
+      "number": 3,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/7/78/Player_003.png"
+    },
+    {
+      "id": "4",
+      "name": "Eun Ji-Lee",
+      "number": 4,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/6/61/6549FDE6-F8EF-4058-B152-4643165DE9C3.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Cho Seung-yon",
+      "number": 5,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b0/Player_005_EP4.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Choi Woo-seong",
+      "number": 6,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/1/18/006.png"
+    },
+    {
+      "id": "7",
+      "name": "Seong Gi-hun",
+      "number": 456,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/9/99/Casual_Gi-hun.png"
+    },
+    {
+      "id": "8",
+      "name": "Kim In-hyeok",
+      "number": 455,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/3/3a/455.png"
+    },
+    {
+      "id": "9",
+      "name": "Do Jung-soo",
+      "number": 17,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/4/49/Player_017.png"
+    },
+    {
+      "id": "10",
+      "name": "Moon Byung-Joo",
+      "number": 21,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/f/fb/Player_021.png"
+    },
+    {
+      "id": "11",
+      "name": "Kim Ha-young",
+      "number": 32,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b2/Player_032.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Yoon Young-kyun",
+      "number": 40,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/5/5b/Player-040.PNG"
+    },
+    {
+      "id": "13",
+      "name": "Won Choon-gyu",
+      "number": 66,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/7/7c/Player_066_Main.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Kang Sae-Byeok",
+      "number": 67,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/f/f4/Kang_Sae-byeok.png"
+    },
+    {
+      "id": "15",
+      "name": "Kim Yun-tae",
+      "number": 69,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/f/f9/Player_69_marbles.png"
+    },
+    {
+      "id": "16",
+      "name": "Lee Ji-ha",
+      "number": 70,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/a/a1/Player_070.png"
+    },
+    {
+      "id": "17",
+      "name": "Park Jung-eon",
+      "number": 73,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/2/2e/073_Main.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Jung Woo-hyuk",
+      "number": 96,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/7/72/Player_096.png"
+    },
+    {
+      "id": "19",
+      "name": "Jang Deok-su",
+      "number": 101,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b9/Jang_Deok-su.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Ji Ho-nu",
+      "number": 102,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/d/df/102.png"
+    },
+    {
+      "id": "21",
+      "name": "Kim Mi-ok",
+      "number": 107,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/2/27/Kim_Mi_Ok_107_Main.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Byeong-gi",
+      "number": 111,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/6/6f/Byeong-gi.png"
+    },
+    {
+      "id": "23",
+      "name": "Oh Yeong-uk",
+      "number": 118,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/0/0f/Oh_Yeong-uk.png"
+    },
+    {
+      "id": "24",
+      "name": "No Sang-hun",
+      "number": 119,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/2/2e/No_Sang-hun.png"
+    },
+    {
+      "id": "25",
+      "name": "Op Fre Woo",
+      "number": 123,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/8/81/60F34E3B-34A2-42CB-B13C-E680FB700C3C.jpg"
+    },
+    {
+      "id": "26",
+      "name": "Na Jo-eun",
+      "number": 129,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/4/49/Player_129.png"
+    },
+    {
+      "id": "27",
+      "name": "Moon Jung-dae",
+      "number": 151,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b3/Player151.jpeg"
+    },
+    {
+      "id": "28",
+      "name": "Na Jo-eun",
+      "number": 187,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/f/fc/Player_187_Spectating.png"
+    },
+    {
+      "id": "29",
+      "name": "Rung Kwan-Jan",
+      "number": 193,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/7/75/Player_193.png"
+    },
+    {
+      "id": "30",
+      "name": "Woo Yeong-taek",
+      "number": 194,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/3/39/Player_194.png"
+    },
+    {
+      "id": "31",
+      "name": "Kim Dong-hyun",
+      "number": 196,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/e/e5/Player_196.png"
+    },
+    {
+      "id": "32",
+      "name": "Kim Hee-seo",
+      "number": 198,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/3/34/Player_198.jpg"
+    },
+    {
+      "id": "33",
+      "name": "Ali Abdul",
+      "number": 199,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/7/74/Ali_Abdul.jpeg"
+    },
+    {
+      "id": "34",
+      "name": "Hyun Jin",
+      "number": 209,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/4/4a/Player_209.jpg"
+    },
+    {
+      "id": "35",
+      "name": "Han Mi-nyeo",
+      "number": 212,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/7/75/Mi-nyeo.png"
+    },
+    {
+      "id": "36",
+      "name": "Cho Sang-woo",
+      "number": 218,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/2/22/Sang-woo.png"
+    },
+    {
+      "id": "37",
+      "name": "Hwang Mi-young",
+      "number": 233,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/8/88/Player_233.png"
+    },
+    {
+      "id": "38",
+      "name": "Tug Bu Ju-Ru",
+      "number": 234,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/a/a3/Player_234.png"
+    },
+    {
+      "id": "39",
+      "name": "Ko Sun-ha",
+      "number": 236,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/4/4f/Ko_Sun-ha.jpg"
+    },
+    {
+      "id": "40",
+      "name": "Ji-yeong",
+      "number": 240,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/f/f2/Ji-yeong.png"
+    },
+    {
+      "id": "41",
+      "name": "Kim Si-hyun",
+      "number": 244,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/7/7c/Player_244.png"
+    },
+    {
+      "id": "42",
+      "name": "Kim Won-Jung",
+      "number": 245,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/9/9f/Player_245.png"
+    },
+    {
+      "id": "43",
+      "name": "Park Ji-hoon",
+      "number": 250,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/f/fd/Player_250.png"
+    },
+    {
+      "id": "44",
+      "name": "Min Tae-yul",
+      "number": 271,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/3/31/Player_271.png"
+    },
+    {
+      "id": "45",
+      "name": "Kim Yoon-kwok",
+      "number": 273,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/f/f0/Player_273.png"
+    },
+    {
+      "id": "46",
+      "name": "Jung Mi-kyung",
+      "number": 274,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/c/ce/Player_274.png"
+    },
+    {
+      "id": "47",
+      "name": "Christian Lagahit",
+      "number": 276,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/7/73/Player_276.png"
+    },
+    {
+      "id": "48",
+      "name": "Kwak Ja-hyoung",
+      "number": 278,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/f/f7/278_main.jpg"
+    },
+    {
+      "id": "49",
+      "name": "Kim Dong-won",
+      "number": 303,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/7/73/303_main.jpg"
+    },
+    {
+      "id": "50",
+      "name": "Yang Mi-seon",
+      "number": 306,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/3/37/306Blood.jpg"
+    },
+    {
+      "id": "51",
+      "name": "Hwang Youn-hee",
+      "number": 308,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/a/ac/308.jpg"
+    },
+    {
+      "id": "52",
+      "name": "Jung Min-tae",
+      "number": 322,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/0/07/Jung_Min-tae.png"
+    },
+    {
+      "id": "53",
+      "name": "Lee Han-sol",
+      "number": 324,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/f/fb/Player_324.png"
+    },
+    {
+      "id": "54",
+      "name": "Kim Youn-tae",
+      "number": 326,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/a/a1/Player_326_png.png"
+    },
+    {
+      "id": "55",
+      "name": "Jong Beom-Park",
+      "number": 357,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/3/3e/Player_357.jpg"
+    },
+    {
+      "id": "56",
+      "name": "Ham Young-nam",
+      "number": 360,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/b/b8/Player_334.png"
+    },
+    {
+      "id": "57",
+      "name": "Park Ju-un",
+      "number": 369,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/1/1e/Park_Ju-un.png"
+    },
+    {
+      "id": "58",
+      "name": "Ko Byung-taek",
+      "number": 407,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/9/95/Player_407.png"
+    },
+    {
+      "id": "59",
+      "name": "Lim Jae-eun",
+      "number": 428,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/c/ce/Player440praying.png"
+    },
+    {
+      "id": "60",
+      "name": "Nick Tonez",
+      "number": 430,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/a/a3/Player_445.png"
+    },
+    {
+      "id": "61",
+      "name": "Lee Se-hoon",
+      "number": 442,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/4/45/Player_442.png"
+    },
+    {
+      "id": "62",
+      "name": "Yang Mal-bok",
+      "number": 453,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/a/a8/Player_453.png"
+    },
+    {
+      "id": "63",
+      "name": "Jan Mun-ho",
+      "number": 454,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/9/90/Player_454.png"
+    },
+    {
+      "id": "64",
+      "name": "Ali Lee Abdul",
+      "number": 450,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/5/55/Player450.png"
+    },
+    {
+      "id": "65",
+      "name": "A Na Lee",
+      "number": 447,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/d/dd/Another_447_player_in_Tug_of_War.jpg"
+    },
+    {
+      "id": "66",
+      "name": "Rung Park",
+      "number": 302,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/6/66/Player302.jpg"
+    },
+    {
+      "id": "67",
+      "name": "Ane Mi-Yang",
+      "number": 339,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/c/ce/Player_339_scared.png"
+    },
+    {
+      "id": "68",
+      "name": "Ju Lang-Si",
+      "number": 338,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/b/bd/Screenshot_2022-04-16_16.03.02.png"
+    },
+    {
+      "id": "69",
+      "name": "Jane Dong",
+      "number": 337,
+      "image": "https://static.wikia.nocookie.net/thesquidgame/images/0/0e/Player_337.png"
+    }
+  ]
 }
